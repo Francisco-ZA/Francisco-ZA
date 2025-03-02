@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Francisco-ZA
-- 👀 I’m interested in Power system analysis through Matlab, Python and DPL.
-- 🌱 I’m currently learning Python and DPL.
-- 💞️ I’m looking to collaborate on Power System Topics
+- 👀 I’m interested in Power system dynamics, control, and stability.
+- 💞️ I’m looking to collaborate on Power System and AI Topics
 - 📫 How to reach me fzelayaa@vols.utk.edu
 
 <!---

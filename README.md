@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Francisco-ZA
-- 👀 I’m interested in Power system dynamics, control, and stability.
+- 👀 I’m interested in Power System Dynamics, Control, and Stability.
 - 💞️ I’m looking to collaborate on Power System and AI Topics
 - 📫 How to reach me fzelayaa@vols.utk.edu
 
